@@ -48,3 +48,10 @@ Feel free to explore my repositories and connect with me for potential collabora
 
 ## 📊 Top Contributed Repo
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=mkhoiruzzz&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+## 🟡 ← 🔵 🔵 🔵 🔵 🔵  Eating bugs in my code! 🎮
+
+## 🔴 ← • • • • •  Munching through commits!
+
+## 🟨 ← 🟦 🟦 🟦 🟦 🟦  Pac-Man style debugging!
