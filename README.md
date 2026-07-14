@@ -27,11 +27,6 @@ Feel free to explore my repositories and connect with me for potential collabora
 
 ---
 
-## ✍️ Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
 ## 📊 Top Contributed Repo
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=mkhoiruzzz&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
